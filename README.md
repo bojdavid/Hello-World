@@ -1,2 +1,2 @@
 # Hello-World
-# Kon'nichiwa-sekai
+Kon'nichiwa-sekai
